@@ -294,7 +294,7 @@ def create_node_trace(nodes, is_central=False):
         textfont=dict(
             family="Poppins, sans-serif",
             size=11,
-            color="#2C3E50"
+            color="black"
         )
     )
 
