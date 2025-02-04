@@ -155,15 +155,15 @@ for group in groups_central:
 # Add extra meaningful connections among non-central keywords by grouping similar keywords
 groups = [
     # Health and wellness group
-    {"Healing", "Wellness", "Nutrition", "Mental health", "Exercise"},
+    {"Healing", "Wellness", "Nutrition", "Mental health", "Exercise", "Roots"},
     # Mindfulness and inner growth group
     {"Self Awareness", "Mindfulness", "Gratitude", "Faith", "Chakra", "Phoenix rising", "Mandala", "Enlightenment", "Inspiration"},
     # Environment and sustainability group
-    {"Biodiversity", "Natural Resources", "Sustainability", "Soil", "Rain"},
+    {"Biodiversity", "Natural Resources", "Sustainability", "Soil", "Rain", "Roots"},
     # Cultural heritage group
-    {"Indian Flag", "Ashoka Chakra", "Ashoka pillar", "Heritage", "Lion", "Honor", "Culture"},
+    {"Indian Flag", "Ashoka Chakra", "Ashoka pillar", "Heritage", "Lion", "Honor", "Culture", "Roots"},
     # Energy and balance group
-    {"Positivity", "Energy", "Balance", "Pulse", "Power"},
+    {"Positivity", "Energy", "Balance", "Pulse", "Power", "Roots"},
     # Discipline and resilience group
     {"Discipline", "Immunity", "Gym"}
 ]
